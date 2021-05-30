@@ -1,0 +1,5 @@
+mediawiki_version = "1.36.0"
+instancetype = ""
+vpc_id = ""
+db_root_pass = ""
+db_wiki_pass = ""
